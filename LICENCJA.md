@@ -1,3 +1,5 @@
+MIT Licencja
+
 Prawa autorskie (c) 2025 Grzegorz P.
 
 Niniejszym udziela się bezpłatnej zgody każdej osobie, która uzyska kopię tego oprogramowania i powiązanych plików dokumentacji („Oprogramowanie”), na obrót Oprogramowaniem bez ograniczeń, w tym bez ograniczeń prawa do używania, kopiowania, modyfikowania, łączenia, publikowania, dystrybuowania, sublicencjonowania i/lub sprzedaży kopii Oprogramowania oraz zezwalania osobom, którym Oprogramowanie jest dostarczane, na takie działanie, z zastrzeżeniem następujących warunków:
@@ -6,6 +8,7 @@ Powyższa informacja o prawach autorskich i niniejsza informacja o zezwoleniu b�
 
 OPROGRAMOWANIE JEST DOSTARCZANE „TAKIE, JAKIE JEST”, BEZ ŻADNEJ GWARANCJI, WYRAŹNEJ LUB DOROZUMIANEJ, W TYM MIĘDZY INNYMI GWARANCJI PRZYDATNOŚCI HANDLOWEJ, PRZYDATNOŚCI DO OKREŚLONEGO CELU I NIENARUSZALNOŚCI. W ŻADNYM WYPADKU AUTORZY LUB POSIADACZE PRAW AUTORSKICH NIE PONOSZĄ ODPOWIEDZIALNOŚCI ZA ŻADNE ROSZCZENIA, SZKODY LUB INNĄ ODPOWIEDZIALNOŚĆ, CZY TO Z TYTUŁU UMOWY, CZYNU NIEDOZWOLONEGO CZY Z INNEJ TYTUŁU, ZWIĄZANE Z OPROGRAMOWANIEM LUB JEGO UŻYTKOWANIEM LUB INNYMI DZIAŁANIAMI ZWIĄZANYMI Z OPROGRAMOWANIEM.
 
+MIT license
 
 Copyright (c) 2025 Grzegorz P.
 
