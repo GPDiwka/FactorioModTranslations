@@ -1,0 +1,1 @@
+mods/factorioplus/locale/pl/config.txt
